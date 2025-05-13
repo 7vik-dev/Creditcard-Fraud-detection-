@@ -4,7 +4,7 @@ This project focuses on detecting fraudulent credit card transactions using mach
 
 📊 Dataset Description
 Source: Kaggle - Credit Card Fraud Detection
-
+https://www.kaggle.com/datasets/kartik2112/fraud-detection?select=fraudTrain.csv
 Samples: 284,807 transactions
 
 Fraudulent Transactions: 492
